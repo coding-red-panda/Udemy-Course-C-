@@ -50,6 +50,4 @@ std::cin.clear();
 std::cin.ignore(std::numeric_limits<std::streamsize>::max(),'\n');
 ```
 
-Make sure you #include <limits> to use it.
-
-*/
+Make sure you `#include <limits>` to use it.
